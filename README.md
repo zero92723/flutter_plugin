@@ -1,4 +1,4 @@
-# nba_flutter_plugin
+# cl_demo_flutter_plugin
 
 A new Flutter plugin.
 
